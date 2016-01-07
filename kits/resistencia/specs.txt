@@ -1,0 +1,6 @@
+Valor: 330 Ω (1)
+Valor: 2,7 kΩ (2)
+Valor: 15 kΩ (3)
+Valor: 470 kΩ (4)
+Potencia: 250 mW
+Modelo: CFR-25JR-52

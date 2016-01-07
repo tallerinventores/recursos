@@ -1,0 +1,4 @@
+Tensión: 3-30 Vpp
+Frecuencia: 4 KHz
+Volumen: 70 dB SPL
+Modelo: PKM13EPYH4000

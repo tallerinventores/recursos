@@ -1,0 +1,4 @@
+Tensión: 3-6 V
+Velocidad: 30 RPM
+Consumo: 200 mA
+Modelo: GA12-N20

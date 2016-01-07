@@ -1,0 +1,4 @@
+Tensión: 5 V
+Ángulo: < 15º
+Rango: 2-450 cm
+Modelo: HC-SR04

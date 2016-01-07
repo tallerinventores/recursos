@@ -1,0 +1,8 @@
+Tensión: 2,0 V (YR)
+Tensión: 3,1 V (GBW)
+Consumo: 20 mA
+Brillo: 300 mcd (YRG)
+Brillo: 700 mcd (B)
+Brillo: 12 cd (W)
+Tamaño: T1¾ (5 mm)
+Modelo: Genérico

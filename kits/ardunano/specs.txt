@@ -1,0 +1,5 @@
+Tensión: 5 V
+E/S digitales: 14
+E analógicas: 8
+Consumo: 40 mA
+Modelo: Arduino nano 3.0

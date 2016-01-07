@@ -1,0 +1,5 @@
+Tensión: 7-12 V (E)
+Tensión: 3,3/5 V (S)
+Consumo: 700 mA
+Canales: 2
+Modelo: Power MB V2

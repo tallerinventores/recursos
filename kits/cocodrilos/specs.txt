@@ -1,0 +1,4 @@
+Sección: 0,2 mm2
+Sección: AWG24
+Longitud: 50 cm
+Modelo: Genérico

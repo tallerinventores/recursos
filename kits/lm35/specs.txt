@@ -1,0 +1,4 @@
+Tensión: 4-30 V
+Rango: 2-150 ºC
+Escala: 10 mV/ºC
+Modelo: LM35DZ

@@ -1,0 +1,5 @@
+Tensión: 3-7.2 V
+Velocidad: 0.12 s/60º
+Consumo: 900 mA
+Fuerza: 1.6 Kg
+Modelo: TowerPro SG90

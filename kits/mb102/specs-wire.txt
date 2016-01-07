@@ -1,0 +1,7 @@
+Sección: 0,08 mm2
+Sección: AWG28
+Longitud: 11,5 cm
+Longitud: 16 cm
+Longitud: 20 cm
+Longitud: 24 cm
+Modelo: Genérico

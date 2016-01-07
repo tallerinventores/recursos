@@ -1,0 +1,6 @@
+Tensión: 7-24 V
+Consumo: 40 mA (S)
+Consumo: 1 A (M)
+Conexiones: 4
+Motores: 4
+Modelo: Roben 1.0.0

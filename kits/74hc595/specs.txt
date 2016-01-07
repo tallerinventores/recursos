@@ -1,0 +1,4 @@
+Tensión: 5 V
+Corriente: 6 mA
+Tipo: SIPO
+Modelo: 74HC595N

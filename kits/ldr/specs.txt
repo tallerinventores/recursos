@@ -1,0 +1,3 @@
+Valor: 5-500 kΩ
+Potencia: 90 mW
+Modelo: GL5516

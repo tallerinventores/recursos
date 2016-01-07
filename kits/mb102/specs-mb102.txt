@@ -1,0 +1,4 @@
+Conexiones: 630 (S)
+Conexiones: 200 (P)
+Expandible: Sí
+Modelo: MB-102

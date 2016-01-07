@@ -1,0 +1,5 @@
+Corriente: 100 mA
+Tensión: 45 V
+Hfe: 420-800
+Potencia: 500 mW
+Modelo: BC547C

@@ -1,0 +1,4 @@
+Valor: 10 kΩ lineal
+Potencia: 200 mW
+Tolerancia: 20%
+Modelo: Genérico

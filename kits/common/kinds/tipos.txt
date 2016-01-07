@@ -1,0 +1,12 @@
+Color X11   Name            Nombre
+
+Cyan        Power           Alimentación
+Pink        Input           Entrada
+Orange      Wire            Conexión
+Green       Output          Salida
+Purple      Logic           Lógica
+Grey70      Support         Soporte
+Burlywood   Common          Común
+Black       Material list   Lista de materiales
+Red
+Yellow
